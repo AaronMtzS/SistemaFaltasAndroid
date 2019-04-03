@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SistemaDeFaltas</string>
+    <string name="botonGuardar">Guardar</string>
+</resources>
